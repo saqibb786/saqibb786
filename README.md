@@ -5,7 +5,7 @@
 ### Software Engineer | AI | Data Science | Full-Stack
 
 <p align="center">
-  <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
+  <a href="https://saqibb.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0070f3" alt="Portfolio Website" />
   </a>
 </p>
@@ -34,7 +34,7 @@
 - 🎓 **Computer Science Student** at UCP (University of Central Punjab)
 - 📚 Advancing my expertise in **AI, Machine Learning, Deep Learning, and Computer Vision**
 - 💡 Strong foundation in **Python, JavaScript, TypeScript, C/C++** with extensive experience in **OOP, DSA, and Software Engineering**
-- 🌐 Visit my **[Portfolio Website](https://saqib-portfolio786.vercel.app/)** to see my latest work
+- 🌐 Visit my **[Portfolio Website](https://saqibb.dev/)** to see my latest work
 - 👯 Open to collaborating on **open-source projects** in cross-platform development, AI/ML, and web technologies
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/saqibb786)**
 - 💬 Ask me about: **React Native, React.js, Flutter, Next.js, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
@@ -147,7 +147,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
+  <a href="https://saqibb.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/saqibb786" target="_blank">
