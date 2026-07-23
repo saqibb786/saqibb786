@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at UCP (University of Central Punjab)
+- 🎓 **Computer Science Graduate** at UCP (University of Central Punjab)
 - 📚 Advancing my expertise in **AI, Machine Learning, Deep Learning, and Computer Vision**
 - 💡 Strong foundation in **Python, JavaScript, TypeScript, C/C++** with extensive experience in **OOP, DSA, and Software Engineering**
 - 🌐 Visit my **[Portfolio Website](https://saqibb.dev/)** to see my latest work
